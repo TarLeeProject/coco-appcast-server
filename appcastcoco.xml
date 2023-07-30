@@ -3,10 +3,10 @@
     <channel>
         <title>COCO App - Appcast</title>
         <item>
-            <title>Version 1.5.0</title>
+            <title>Version 1.6.0</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 16 Apr 2023 00:01:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.crosstech.coco" sparkle:version="1.5.0" sparkle:os="android" />
+            <pubDate>Sun, 26 Jul 2023 00:01:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.crosstech.coco" sparkle:version="1.6.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
